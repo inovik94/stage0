@@ -10,7 +10,6 @@
 #### Расширения Visual Studio Code
 (базовый минимум, список может расширяться)
 - **Russian Language Pack for Visual Studio Code** - устанавливает русский язык 
-- **Auto Complete Tag** - автоматически закрывает теги
 - **Live Server** - открывает html-страницу в браузере
 - **Brackets Light Pro** – оформление как у Brackets (для любителей светлой темы)
 - **Prettier** – форматирование кода  
