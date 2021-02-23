@@ -31,7 +31,7 @@
 Базовая настройка Git предусматривает выполнение двух команд
 
 `git config --global user.name "github-username"`  
-`git config --global user.email "mail@gmail.com"`  
+`git config --global user.email mail@gmail.com`  
 
 здесь
 - `github-username` – ваш логин на GitHub
